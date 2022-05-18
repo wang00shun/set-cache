@@ -39,4 +39,5 @@ call npm config set disturl Node.js Mirror --global
 setx /m NODE_PATH %NODE_PATH%
 setx /m PATH "%PATH%;%NODE_GLOBAL%;"
 
+echo over...
 pause
